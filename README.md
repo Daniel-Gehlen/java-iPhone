@@ -3,7 +3,7 @@
 #### Introduction
 This report describes the development of a Java challenge, which involved creating an iPhone component with functionalities of a music player, telephone, and internet browser. The goal was to apply object-oriented concepts, UML modeling, and develop skills in Java code implementation and testing.
 
-|--------------------------------------|
+
 |               iPhone                 |
 |--------------------------------------|
 | + tocar()                            |
@@ -22,7 +22,26 @@ This report describes the development of a Java challenge, which involved creati
 |       AparelhoTelefonico             |
 |          NavegadorInternet           |
 |--------------------------------------|
-                    
+
+----------------------------------------
+|               iPhone                 |
+----------------------------------------
+| + tocar()                            |
+| + pausar()                           |
+| + selecionarMusica()                |
+| + ligar()                            |
+| + atender()                          |
+| + iniciarCorreioVoz()               |
+| + exibirPagina()                     |
+| + adicionarNovaAba()                 |
+| + atualizarPagina()                  |
+----------------------------------------
+^          ^                ^
+|          |                |
+|          |                |
+|    ReprodutorMusical    AparelhoTelefonico
+|                           NavegadorInternet
+
                     
 #### Challenge
 The challenge proposed the creation of a simplified system representing an iPhone, where each specific functionality would be represented by methods within Java interfaces and implemented in concrete classes.
