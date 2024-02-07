@@ -5,15 +5,15 @@ This report describes the development of a Java challenge, which involved creati
 
 
 |               iPhone                 |
-|--------------------------------------|
+|          ReprodutorMusical           |
 | + tocar()                            |
 | + pausar()                           |
 | + selecionarMusica()                |
-|--------------------------------------|
+|       AparelhoTelefonico             |
 | + ligar()                            |
 | + atender()                          |
 | + iniciarCorreioVoz()               |
-|--------------------------------------|
+|          NavegadorInternet           |
 | + exibirPagina()                     |
 | + adicionarNovaAba()                 |
 | + atualizarPagina()                  |
@@ -21,26 +21,7 @@ This report describes the development of a Java challenge, which involved creati
 |          ReprodutorMusical           |
 |       AparelhoTelefonico             |
 |          NavegadorInternet           |
-|--------------------------------------|
 
-----------------------------------------
-|               iPhone                 |
-----------------------------------------
-| + tocar()                            |
-| + pausar()                           |
-| + selecionarMusica()                |
-| + ligar()                            |
-| + atender()                          |
-| + iniciarCorreioVoz()               |
-| + exibirPagina()                     |
-| + adicionarNovaAba()                 |
-| + atualizarPagina()                  |
-----------------------------------------
-^          ^                ^
-|          |                |
-|          |                |
-|    ReprodutorMusical    AparelhoTelefonico
-|                           NavegadorInternet
 
                     
 #### Challenge
