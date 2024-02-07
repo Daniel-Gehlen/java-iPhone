@@ -7,28 +7,23 @@ This report describes the development of a Java challenge, which involved creati
 |               iPhone                 |
 |--------------------------------------|
 |          ReprodutorMusical           |
-|--------------------------------------|
+|                                       |
 | + tocar()                            |
 | + pausar()                           |
 | + selecionarMusica()                |
 |--------------------------------------|
 |       AparelhoTelefonico             |
-|--------------------------------------|
+|                                       |
 | + ligar()                            |
 | + atender()                          |
 | + iniciarCorreioVoz()               |
 |--------------------------------------|
 |          NavegadorInternet           |
-|--------------------------------------|
+|                                       |
 | + exibirPagina()                     |
 | + adicionarNovaAba()                 |
 | + atualizarPagina()                  |
 |--------------------------------------|
-|          ReprodutorMusical           |
-|       AparelhoTelefonico             |
-|          NavegadorInternet           |
-
-
                     
 #### Challenge
 The challenge proposed the creation of a simplified system representing an iPhone, where each specific functionality would be represented by methods within Java interfaces and implemented in concrete classes.
