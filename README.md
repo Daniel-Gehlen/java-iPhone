@@ -6,18 +6,18 @@ This report describes the development of a Java challenge, which involved creati
 
 |               iPhone                 |
 |--------------------------------------|
-|          ReprodutorMusical           |
-| + tocar()                            |
-| + pausar()                           |
-| + selecionarMusica()                |
-|       AparelhoTelefonico             |
-| + ligar()                            |
-| + atender()                          |
-| + iniciarCorreioVoz()               |
-|          NavegadorInternet           |
-| + exibirPagina()                     |
-| + adicionarNovaAba()                 |
-| + atualizarPagina()                  |
+|          Music Player               |
+| + play()                            |
+| + stop()                           |
+| + select Music()                      |
+|       Telephone                       |
+| + to connect()                            |
+| + to meet()                          |
+| + start voicemail()               |
+|          Browser                    |
+| + display Page()                     |
+| + add New Tab()                     |
+| + update page()                      |
 |                                       |
                     
 #### Challenge
